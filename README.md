@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋 Im Tarun Nair
+- 🔭 I’m currently working on completing my bachleors degree of computer engineering at sdsu
+- 👯 I'm looking to collaborate on group project and am looking for work
+- ⚡ Fun fact: I know how to play 10 different instruments
 <!--
 **Tarnoon/Tarnoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
